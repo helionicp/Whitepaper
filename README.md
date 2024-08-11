@@ -10,6 +10,8 @@ The platform is providing an AI digital economy that is fully On-chain. Decentra
 
 Website: https://helion.pro
 
+Docs: https://docs.helion.pro
+
 dApp: https://dapp.helion.pro
 
 X: https://x.com/helion_ai
